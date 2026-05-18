@@ -4,6 +4,15 @@ import altair as alt
 import time
 from logic import run_analysis
 
+st.markdown(
+    """
+    <meta name="google-site-verification" content="R5CnqT3FEfZW6e2f1QKQTzPYQVlOhD-tiwipC_H9vEg" />
+    """,
+    unsafe_allow_html=True
+)
+
+
+
 # ─────────────────────────────────────────────────────────
 # PAGE CONFIG
 # ─────────────────────────────────────────────────────────
