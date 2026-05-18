@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+requests
+yfinance
+vaderSentiment
+google-generativeai
